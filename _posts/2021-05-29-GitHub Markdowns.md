@@ -42,4 +42,5 @@
 <!-- 공부 참고 사이트
 1. https://tagilog.tistory.com/377
 2. https://guides.github.com/features/mastering-markdown/
+3. https://hahafamilia.github.io/howto/jekyll-github-mistakes-blog/
 -->
