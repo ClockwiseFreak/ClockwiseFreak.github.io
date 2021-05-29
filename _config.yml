@@ -102,7 +102,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "skybluee0612@gmail.com"
+    - label: "Notion"
+      icon: "fab fa-fw fa-notion"
+      # url: "https://www.notion.so/igoclockwise/Dashboard-c467c4c91e47443796d2d16891f422a7"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -118,6 +121,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    
 
 # Site Footer
 footer:
