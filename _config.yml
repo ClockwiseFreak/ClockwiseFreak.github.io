@@ -121,7 +121,21 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    
+
+# Site Sidebar
+sidebar:
+  - title: "title"
+    image: 
+    image_alt: "O_O"
+    text: "some text here"
+  - title: "Another Title"
+    text: "More text here"
+
+# Site Sidebar Menu & links
+docs:
+  - title: Github
+    url: /posts/
+
 
 # Site Footer
 footer:
