@@ -134,7 +134,7 @@ sidebar:
 # Site Sidebar Menu & links
 docs:
   - title: Github
-    url: /posts/
+    url: _post/2021-05-29-GitHub-01
 
 
 # Site Footer
